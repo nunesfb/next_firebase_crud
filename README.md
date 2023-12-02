@@ -1,4 +1,8 @@
-# Using authentication with Firebase, Next, and TypeScript
+<p align="center">
+  <img alt="LogoTecEdu4All" src="https://yt3.googleusercontent.com/dmw2l1Yz24lOBeG175P6ovEnNdNI3zNVoMiUMRNyqE8o_ECDsvU1ttPNRWCB_VAXZlOcLKsiYKQ=s176-c-k-c0x00ffffff-no-rj" width="120px" />
+</p>
+
+# Creating a ToDo List with Firebase, Next, and TypeScript
 
 <p align="justify">
 In this exciting video, dive into the world of web development with Next.js, Firebase, and TypeScript as we collaboratively build a ToDoList project. Learn step-by-step how to integrate Next.js to create reactive interfaces, harness the power of Firebase for real-time data storage, and implement TypeScript for safer and scalable code. 
